@@ -73,6 +73,7 @@ Due to dataset licensing restrictions and repository size limitations, datasets 
 <p align="center">
   <img src="assets/U-Net_Decoder.png" width="100%">
 </p>
+
 ---
 
 ## Proposed Architecture
