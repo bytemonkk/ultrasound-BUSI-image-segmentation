@@ -114,9 +114,11 @@ The framework evaluates eleven transformer backbones:
 
 ## Experimental Results
 
-<p align="center">
-  <img src="assets/results.png" width="100%">
-</p>
+| Dataset | IoU ↑ | Dice ↑ | Accuracy ↑ |
+|----------|----------|----------|----------|
+| BUSI | **0.67** | **0.81** | **96.15%** |
+| BUS-BRA | **0.83** | **0.90** | **98.00%** |
+| BrEaST | **0.67** | **0.80** | **98.00%** |
 
 ---
 
