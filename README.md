@@ -60,29 +60,18 @@ Due to dataset licensing restrictions and repository size limitations, datasets 
 
 ---
 
-## U-Net with replaceable CNN Encoders 
+## U-Net Encoder Enhanced with Deep Learning Backbones
 
 <p align="center">
   <img src="assets/U-Net_Encoder.png" width="100%">
 </p>
 ---
 
-## Transformer Backbone Benchmark
+## U-Net Encoder Enhanced with Transformers
 
-The framework evaluates eleven transformer backbones:
-
-- PVTv2-B3
-- Swin-Tiny
-- Swin-Base
-- PVTv2-B2
-- ViT-Base
-- ViT-Small
-- MiT-B0
-- MiT-B1
-- MiT-B2
-- MiT-B3
-- MiT-B4
-
+<p align="center">
+  <img src="assets/U-Net_Decoder.png" width="100%">
+</p>
 ---
 
 ## Proposed Architecture
